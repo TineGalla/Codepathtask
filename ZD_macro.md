@@ -1,10 +1,11 @@
-# **Zendesk Macro Improvement: Excused Absence - Rejected**
+# **Macro Improvement: Excused Absence - Rejected**
 
 ## **Revised Macro**
 
 **Subject:** Attendance Policy Reminder & Absence Confirmation
 
-**Dear [Student’s Name],**
+```md
+Dear [Student’s Name],
 
 Thank you for reaching out regarding your absence on **[Insert Session Date]**. We understand that unexpected situations can arise, and we appreciate your proactive communication.
 
@@ -12,22 +13,22 @@ As part of our attendance policy, each student is granted **two no-questions-ask
 
 To ensure you remain in the program, please be mindful that exceeding **three unexcused absences** will result in withdrawal.
 
-### **Attendance Guidelines Reminder**
+**Attendance Guidelines Reminder**
 To be marked present for a session, please adhere to the following requirements:
-- **Punctuality:** Join the session at least **5 minutes before the start time**.
-- **Stable Connection:** Ensure a **stable internet connection** to prevent disruptions.
-- **Full Session Attendance:** Stay for the **entire session duration** to avoid being marked absent.
-- **Active Participation:** Engage in discussions and activities.
-- **Camera Requirement:** Keep your camera **on during breakout sessions**.
+- Punctuality: Join the session at least 5 minutes before the start time.
+- Stable Connection: Ensure a stable internet connection to prevent disruptions.
+- Full Session Attendance: Stay for the entire session duration to avoid being marked absent.
+- Active Participation: Engage in discussions and activities.
+- Camera Requirement:Keep your camera on during breakout sessions.
 
 We appreciate your commitment to the program and your cooperation in following these policies to maintain a productive learning experience.
 
 If you have any further questions or concerns, please reply to this email—we’re happy to assist you.
 
-**Best regards,**  
+Best regards,
 Tine  
 CodePath Support  
-
+```
 
 ---
 
