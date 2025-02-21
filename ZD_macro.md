@@ -26,7 +26,7 @@ If you have any further questions or concerns, please reply to this emailâ€”weâ€
 
 **Best regards,**  
 Tine
-CodePath Support
+CodePathSupport
 
 ---
 
