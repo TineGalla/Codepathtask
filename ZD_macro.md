@@ -7,9 +7,9 @@
 ```md
 Dear [Student’s Name],
 
-Thank you for reaching out regarding your absence on **[Insert Session Date]**. We understand that unexpected situations can arise, and we appreciate your proactive communication.
+Thank you for reaching out regarding your absence on [Insert Session Date]. We understand that unexpected situations can arise, and we appreciate your proactive communication.
 
-As part of our attendance policy, each student is granted **two no-questions-asked absences** to accommodate unforeseen circumstances. Since these absences are meant to provide flexibility, we regret to inform you that your absence on **[Insert Session Date]** will be counted toward your total allowed absences.
+As part of our attendance policy, each student is granted two no-questions-asked absences to accommodate unforeseen circumstances. Since these absences are meant to provide flexibility, we regret to inform you that your absence on [Insert Session Date] will be counted toward your total allowed absences.
 
 To ensure you remain in the program, please be mindful that exceeding **three unexcused absences** will result in withdrawal.
 
