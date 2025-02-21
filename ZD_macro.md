@@ -4,7 +4,7 @@
 
 **Subject:** Attendance Policy Reminder & Absence Confirmation
 
-**Dear [Student’s Name],**
+**Hi [Student’s Name],**
 
 Thank you for reaching out regarding your absence on **[Insert Session Date]**. We understand that unexpected situations can arise, and we appreciate your proactive communication.
 
@@ -25,9 +25,8 @@ We appreciate your commitment to the program and your cooperation in following t
 If you have any further questions or concerns, please reply to this email—we’re happy to assist you.
 
 **Best regards,**  
-[Your Name]  
-[Your Role]  
-[Program Name]
+Tine
+CodePath Support
 
 ---
 
